@@ -2,7 +2,7 @@ import React from 'react'
 // import "./styles/home.css"
 import "./styles/mediaQueries.css"
 // import "./styles/change.css"
-import image from "../assets/bg-eth.mp4"
+// import image from "../assets/bg-eth.mp4"
 
 import Timer from './Timer'
 export default function Home() {

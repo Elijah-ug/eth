@@ -2,7 +2,7 @@ import React from 'react'
 import "./styles/about.css"
 import ImageA from "../assets/eth2.jpg"
 import ImageB from "../assets/ethN.JPG"
-import BgImage from "../assets/about-bg.jpg"; // replace with your image file
+
 
 export default function About() {
   return (
