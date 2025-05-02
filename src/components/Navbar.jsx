@@ -29,9 +29,9 @@ const Navbar = () => {
 
         <div className={!isActive ? "links" : "hidden"}>
 <Link onClick={handleClickedLink} to="home" smooth={true} duration={500}>Home</Link>
-<Link onClick={handleClickedLink} to="speakers" smooth={true} duration={500}>About</Link>
-<Link onClick={handleClickedLink} to="speakers" smooth={true} duration={500}>Explore</Link>
-<Link onClick={handleClickedLink} to="schedule" smooth={true} duration={500}>Speakers</Link>
+<Link onClick={handleClickedLink} to="about" smooth={true} duration={500}>About</Link>
+<Link onClick={handleClickedLink} to="explore" smooth={true} duration={500}>Explore</Link>
+<Link onClick={handleClickedLink} to="speakers" smooth={true} duration={500}>Speakers</Link>
 <Link onClick={handleClickedLink} to="register" smooth={true} duration={500}>Contact Us</Link>
 
         {/* <a href="/home">Home</a>

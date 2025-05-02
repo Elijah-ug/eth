@@ -17,14 +17,14 @@ export default function Container() {
         <Home />
       </Element>
 
-      <Element name="speakers">
+      <Element name="about">
         <About />
       </Element>
-      <Element name="speakers">
+      <Element name="explore">
         <Explore />
       </Element>
 
-      <Element name="schedule">
+      <Element name="speakers">
         <Speakers />
       </Element>
 
